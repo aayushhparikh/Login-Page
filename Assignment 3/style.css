@@ -1,0 +1,113 @@
+body {
+	font : 14px;
+	font-family: sans-serif;
+	background-color: #344a71;
+}
+
+.header {
+	font-size: 19px;
+	padding: 10px;
+	margin: 0px 14px;
+}
+
+.signup {
+	width: 450px;
+	padding: 15px;
+	margin: auto;
+	background-color: #e1e4e5;  
+	border-radius: 10px;
+}
+
+.login-field {
+	width: 450px;
+	padding: 15px;
+	margin: auto;
+	background-color: #e1e4e5;  
+	border-radius: 10px;
+}
+
+.login-tab {
+	padding: 5px;
+	margin: 15px;
+	text-align: center;
+}
+
+.login-tab a:hover {
+	text-decoration: none;
+}
+
+.signup-tab a:hover {
+	text-decoration: none;
+}
+
+p {
+	font: 10px;
+}
+
+.signup-tab {
+	padding: 5px;
+	margin: 15px;
+	text-align: center;
+}
+
+.signup-form {
+	padding: 5px;
+	margin: 15px;
+}
+
+label {
+	font-size: 17px;
+	font-weight: bold;
+}
+
+input {
+	width: 90%;
+	border-radius: 7.5px;
+	padding: 10px;
+	margin: 10px;
+	border: #f0f0f0;
+	background-color: #fff;
+}
+
+button {
+	width: 90%;
+	border-radius: 7.5px;
+	padding: 12px;
+	margin: 3px;
+	text-align: center;
+	font-size: 15px;
+	background-color: #49c1a2;
+	border: #49c1a2;
+
+}
+
+.button:hover {
+	background-color: #ffff;
+	transition-duration: 0.4s;
+	border: 3px;
+	border-color: #49c1a2;
+}
+
+.error { 
+	width: 90%;
+	margin: 5px auto;
+	padding: 6px 0px;
+	border: 1px solid #a3403e;
+	color: #a3403e;
+	background: #edd5d5;
+	border-radius: 5px;
+	text-align: left;
+ }
+
+ .error p {
+ 	margin: 10px;
+ }
+
+ .homepage {
+ 	width: 450px;
+	padding: 15px;
+	margin: auto;
+	background-color: #e1e4e5;  
+	border-radius: 10px;
+ }
+
